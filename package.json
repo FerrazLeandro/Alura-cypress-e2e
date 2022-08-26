@@ -1,0 +1,28 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "Automação e2e com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerrazLeandro/cypress-e2e.git"
+  },
+  "keywords": [
+    "Cypress",
+    "e2e",
+    "js"
+  ],
+  "author": "Leandro Ferraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerrazLeandro/cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/FerrazLeandro/cypress-e2e#readme",
+  "dependencies": {
+    "cypress": "^10.6.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
